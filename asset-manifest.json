@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Dies-Game-by-React/static/css/main.f094f1a7.css",
-    "main.js": "/Dies-Game-by-React/static/js/main.15da756b.js",
+    "main.js": "/Dies-Game-by-React/static/js/main.5fc33f36.js",
     "static/js/787.0adc0c45.chunk.js": "/Dies-Game-by-React/static/js/787.0adc0c45.chunk.js",
     "index.html": "/Dies-Game-by-React/index.html",
     "main.f094f1a7.css.map": "/Dies-Game-by-React/static/css/main.f094f1a7.css.map",
-    "main.15da756b.js.map": "/Dies-Game-by-React/static/js/main.15da756b.js.map",
+    "main.5fc33f36.js.map": "/Dies-Game-by-React/static/js/main.5fc33f36.js.map",
     "787.0adc0c45.chunk.js.map": "/Dies-Game-by-React/static/js/787.0adc0c45.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f094f1a7.css",
-    "static/js/main.15da756b.js"
+    "static/js/main.5fc33f36.js"
   ]
 }
